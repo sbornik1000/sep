@@ -1,0 +1,16 @@
+{
+  "name": "Сборник евангельских псалмов",
+  "short_name": "Псалмы",
+  "start_url": "/sep/",
+  "scope": "/sep/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://sbornik1000.github.io/sep/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
